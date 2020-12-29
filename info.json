@@ -1,0 +1,11 @@
+{
+	"name": "WideChestsAllTypes",
+	"version": "1.2.0",
+	"factorio_version": "1.1",
+	"title": "Merging Chests All Types",
+	"author": "Atria",
+	"contact": "tomas.chmelik2@gmail.com",
+	"homepage": "",
+	"description": "Toggle mod for WideChests mod. Having this mod enabled together with WideChests enabled merging of all basic chest types. Increases memory usage and loading time.",
+	"dependencies": []
+}
